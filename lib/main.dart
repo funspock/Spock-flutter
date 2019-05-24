@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'firstroute.dart';
+import 'SpockList.dart';
 
 void main() {
   runApp(MaterialApp(
     title: 'Navigation Basics',
-    home: FirstRoute(),
+    home: SpockList(),
   ));
 }
