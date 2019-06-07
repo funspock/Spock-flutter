@@ -1,3 +1,3 @@
-# Spock_flutter
+# Spock-flutter
 SpockをFlutterで作ってみます．
 
